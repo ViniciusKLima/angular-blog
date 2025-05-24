@@ -1,5 +1,4 @@
 .container__big-card{
-
   margin-left: 20px;
   margin-right: 20px;
   margin-bottom: 40px;
@@ -21,13 +20,16 @@
   margin-top: 15px;
   font-size: 20px;
 }
+.big-card__title > h1 > a  {
+  color: rgb(27, 190, 63);
+}
 
 .big-card__description{
   margin-top: 20px;
 }
 
 .big-card__description > p > a {
-  color: grey;
+  color: rgb(182, 182, 182);
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 

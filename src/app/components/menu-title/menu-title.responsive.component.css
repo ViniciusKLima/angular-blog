@@ -1,4 +1,9 @@
-@media screen and (max-width:600px) {
+.container__menu-title > h1{
+  font-size: 80px;
+  color: rgb(255, 187, 0);
+}
+
+@media screen and (max-width:900px) {
   .container__menu-title > h1{
     font-size: 30px;
   }
